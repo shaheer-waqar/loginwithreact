@@ -1,0 +1,17 @@
+.inpDiv{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.inpDiv input{
+    outline: none;
+    
+}
+.containerBox{
+    max-width: 400px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(100px);
+    
+}
